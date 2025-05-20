@@ -1,5 +1,5 @@
 // Alle Boxen mit der Klasse 'box' auswählen
-const boxes = document.querySelectorAll('.box, .return-button');
+const boxes = document.querySelectorAll('.box, .return-button, .bewertung-button');
 
 // Für jede Box ein Klick-Ereignis hinzufügen
 boxes.forEach(box => {
